@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zimquadery
 - 👀 I’m interested in learning new technologies
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning ElectronJS
 - 💞️ I’m looking to collaborate on Java/JavaScript projects
 - 📫 Reach me : zimquadery@gmail.com or [Linkedin](https://www.linkedin.com/in/zim-quadery-9363a4254/)
 
