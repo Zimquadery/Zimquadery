@@ -1,6 +1,6 @@
 # Hi, I'm Zim 👋
 
-📍 **Rangpur, Bangladesh** | 🤖 **Agent-loop tinkerer** | 💼 **Open to work**
+📍 **Rangpur, Bangladesh** | 🤖 **Agent-loop tinkerer** | 💼 **Open to work** | 🌐 **[Portfolio](https://zimquadery.github.io/portfolio/)**
 
 I build tools that let coding agents run for hours without a human in the loop: outer loops, nested subagents, token optimization. Before that: web apps, extensions, p5.js sketches.
 
